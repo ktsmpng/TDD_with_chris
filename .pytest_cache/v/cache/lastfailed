@@ -1,0 +1,6 @@
+{
+  "movies_app_test.py": true,
+  "movies_app_test.py::test_adding_regular_movie": true,
+  "movies_app_test.py::test_return_blank_statement": true,
+  "movies_app_test.py::test_return_customer2_statement": true
+}
