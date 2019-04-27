@@ -17,5 +17,6 @@ class Movies:
 		print(self._statement)
 		return self._statement
 
-	def add_rental(self, movie):
-		self.rented_movies.append(movie)
+	def add_rental(self, *movies):
+		for movie in movies:
+			self.rented_movies.append(movie)
