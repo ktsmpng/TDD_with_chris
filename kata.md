@@ -9,7 +9,8 @@ Rental Record for Customer Name
   The Web  3.5
 You owe 7.5
 You earned 3 frequent renter points
-Regular Movies
+
+# Regular Movies
 Are 2 for the first 2 days, and 1.5 for each day thereafter.
 
 You earn 1 frequent renter point no matter the length of the rental.
